@@ -1,2 +1,3 @@
 # projeto-cosmos-git
-teste
+
+Aula sobre Git e Github
